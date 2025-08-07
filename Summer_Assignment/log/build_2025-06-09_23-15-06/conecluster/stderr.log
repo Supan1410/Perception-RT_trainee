@@ -1,0 +1,5 @@
+  File "/home/supan/RT/Perception/Summer_Assignment/install/conecluster/lib/python3.10/site-packages/conecluster/ass2.py", line 54
+    top_intensity = cluster[(cluster[:, 2] > 0.1) )]
+                                                  ^
+SyntaxError: closing parenthesis ')' does not match opening parenthesis '['
+

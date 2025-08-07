@@ -1,0 +1,4 @@
+[console_scripts]
+cc = conecluster.ass2:main
+try = conecluster.try:main
+

@@ -1,0 +1,18 @@
+[0.461s] Invoking command in '/home/supan/RT/Perception/Summer_Assignment/build/conecluster': PYTHONPATH=/home/supan/RT/Perception/Summer_Assignment/build/conecluster/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/supan/RT/Perception/Summer_Assignment/install/conecluster/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/supan/RT/Perception/Summer_Assignment/build/conecluster/build --no-deps symlink_data
+[0.660s] running develop
+[0.769s] running egg_info
+[0.769s] writing conecluster.egg-info/PKG-INFO
+[0.769s] writing dependency_links to conecluster.egg-info/dependency_links.txt
+[0.769s] writing entry points to conecluster.egg-info/entry_points.txt
+[0.769s] writing requirements to conecluster.egg-info/requires.txt
+[0.770s] writing top-level names to conecluster.egg-info/top_level.txt
+[0.770s] reading manifest file 'conecluster.egg-info/SOURCES.txt'
+[0.771s] writing manifest file 'conecluster.egg-info/SOURCES.txt'
+[0.772s] running build_ext
+[0.772s] Creating /home/supan/RT/Perception/Summer_Assignment/install/conecluster/lib/python3.10/site-packages/conecluster.egg-link (link to .)
+[0.772s] Installing cc script to /home/supan/RT/Perception/Summer_Assignment/install/conecluster/lib/conecluster
+[0.772s] Installing try script to /home/supan/RT/Perception/Summer_Assignment/install/conecluster/lib/conecluster
+[0.772s] 
+[0.773s] Installed /home/supan/RT/Perception/Summer_Assignment/build/conecluster
+[0.773s] running symlink_data
+[0.797s] Invoked command in '/home/supan/RT/Perception/Summer_Assignment/build/conecluster' returned '0': PYTHONPATH=/home/supan/RT/Perception/Summer_Assignment/build/conecluster/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/supan/RT/Perception/Summer_Assignment/install/conecluster/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/supan/RT/Perception/Summer_Assignment/build/conecluster/build --no-deps symlink_data

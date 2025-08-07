@@ -1,0 +1,17 @@
+[0.466s] Invoking command in '/home/supan/RT/Perception/Summer_Assignment/build/conecluster': PYTHONPATH=/home/supan/RT/Perception/Summer_Assignment/build/conecluster/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/supan/RT/Perception/Summer_Assignment/install/conecluster/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/supan/RT/Perception/Summer_Assignment/build/conecluster/build --no-deps symlink_data
+[0.663s] running develop
+[0.783s] running egg_info
+[0.783s] writing conecluster.egg-info/PKG-INFO
+[0.783s] writing dependency_links to conecluster.egg-info/dependency_links.txt
+[0.783s] writing entry points to conecluster.egg-info/entry_points.txt
+[0.783s] writing requirements to conecluster.egg-info/requires.txt
+[0.783s] writing top-level names to conecluster.egg-info/top_level.txt
+[0.785s] reading manifest file 'conecluster.egg-info/SOURCES.txt'
+[0.785s] writing manifest file 'conecluster.egg-info/SOURCES.txt'
+[0.786s] running build_ext
+[0.786s] Creating /home/supan/RT/Perception/Summer_Assignment/install/conecluster/lib/python3.10/site-packages/conecluster.egg-link (link to .)
+[0.786s] Installing cc script to /home/supan/RT/Perception/Summer_Assignment/install/conecluster/lib/conecluster
+[0.787s] 
+[0.787s] Installed /home/supan/RT/Perception/Summer_Assignment/build/conecluster
+[0.787s] running symlink_data
+[0.811s] Invoked command in '/home/supan/RT/Perception/Summer_Assignment/build/conecluster' returned '0': PYTHONPATH=/home/supan/RT/Perception/Summer_Assignment/build/conecluster/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/supan/RT/Perception/Summer_Assignment/install/conecluster/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/supan/RT/Perception/Summer_Assignment/build/conecluster/build --no-deps symlink_data

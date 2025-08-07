@@ -1,0 +1,6 @@
+source;share/conecluster/hook/pythonpath.ps1
+source;share/conecluster/hook/pythonpath.dsv
+source;share/conecluster/hook/pythonpath.sh
+source;share/conecluster/hook/ament_prefix_path.ps1
+source;share/conecluster/hook/ament_prefix_path.dsv
+source;share/conecluster/hook/ament_prefix_path.sh

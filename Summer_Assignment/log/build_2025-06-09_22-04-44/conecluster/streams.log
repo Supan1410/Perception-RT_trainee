@@ -1,0 +1,24 @@
+[0.453s] Invoking command in '/home/supan/RT/Perception/Summer_Assignment/src/conecluster': PYTHONPATH=/home/supan/RT/Perception/Summer_Assignment/build/conecluster/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/supan/RT/Perception/Summer_Assignment/install/conecluster/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/conecluster build --build-base /home/supan/RT/Perception/Summer_Assignment/build/conecluster/build install --record /home/supan/RT/Perception/Summer_Assignment/build/conecluster/install.log --single-version-externally-managed install_data
+[0.635s] running egg_info
+[0.635s] writing ../../build/conecluster/conecluster.egg-info/PKG-INFO
+[0.635s] writing dependency_links to ../../build/conecluster/conecluster.egg-info/dependency_links.txt
+[0.636s] writing entry points to ../../build/conecluster/conecluster.egg-info/entry_points.txt
+[0.636s] writing requirements to ../../build/conecluster/conecluster.egg-info/requires.txt
+[0.636s] writing top-level names to ../../build/conecluster/conecluster.egg-info/top_level.txt
+[0.637s] reading manifest file '../../build/conecluster/conecluster.egg-info/SOURCES.txt'
+[0.637s] writing manifest file '../../build/conecluster/conecluster.egg-info/SOURCES.txt'
+[0.637s] running build
+[0.637s] running build_py
+[0.637s] copying conecluster/ass2.py -> /home/supan/RT/Perception/Summer_Assignment/build/conecluster/build/lib/conecluster
+[0.637s] running install
+[0.638s] running install_lib
+[0.638s] copying /home/supan/RT/Perception/Summer_Assignment/build/conecluster/build/lib/conecluster/ass2.py -> /home/supan/RT/Perception/Summer_Assignment/install/conecluster/lib/python3.10/site-packages/conecluster
+[0.638s] byte-compiling /home/supan/RT/Perception/Summer_Assignment/install/conecluster/lib/python3.10/site-packages/conecluster/ass2.py to ass2.cpython-310.pyc
+[0.639s] running install_data
+[0.639s] running install_egg_info
+[0.640s] removing '/home/supan/RT/Perception/Summer_Assignment/install/conecluster/lib/python3.10/site-packages/conecluster-0.0.0-py3.10.egg-info' (and everything under it)
+[0.640s] Copying ../../build/conecluster/conecluster.egg-info to /home/supan/RT/Perception/Summer_Assignment/install/conecluster/lib/python3.10/site-packages/conecluster-0.0.0-py3.10.egg-info
+[0.641s] running install_scripts
+[0.655s] Installing cc script to /home/supan/RT/Perception/Summer_Assignment/install/conecluster/lib/conecluster
+[0.655s] writing list of installed files to '/home/supan/RT/Perception/Summer_Assignment/build/conecluster/install.log'
+[0.672s] Invoked command in '/home/supan/RT/Perception/Summer_Assignment/src/conecluster' returned '0': PYTHONPATH=/home/supan/RT/Perception/Summer_Assignment/build/conecluster/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/supan/RT/Perception/Summer_Assignment/install/conecluster/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/conecluster build --build-base /home/supan/RT/Perception/Summer_Assignment/build/conecluster/build install --record /home/supan/RT/Perception/Summer_Assignment/build/conecluster/install.log --single-version-externally-managed install_data

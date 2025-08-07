@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+../../build/conecluster/conecluster.egg-info/PKG-INFO
+../../build/conecluster/conecluster.egg-info/SOURCES.txt
+../../build/conecluster/conecluster.egg-info/dependency_links.txt
+../../build/conecluster/conecluster.egg-info/entry_points.txt
+../../build/conecluster/conecluster.egg-info/requires.txt
+../../build/conecluster/conecluster.egg-info/top_level.txt
+../../build/conecluster/conecluster.egg-info/zip-safe
+conecluster/__init__.py
+conecluster/ass2.py
+conecluster/try.py
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

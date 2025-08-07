@@ -1,0 +1,24 @@
+[0.535s] Invoking command in '/home/supan/RT/Perception/checkpoint 2/src/conecluster': PYTHONPATH=/home/supan/RT/Perception/checkpoint 2/build/conecluster/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/supan/RT/Perception/checkpoint 2/install/conecluster/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/conecluster build --build-base /home/supan/RT/Perception/checkpoint 2/build/conecluster/build install --record /home/supan/RT/Perception/checkpoint 2/build/conecluster/install.log --single-version-externally-managed install_data
+[0.732s] running egg_info
+[0.733s] writing ../../build/conecluster/conecluster.egg-info/PKG-INFO
+[0.733s] writing dependency_links to ../../build/conecluster/conecluster.egg-info/dependency_links.txt
+[0.733s] writing entry points to ../../build/conecluster/conecluster.egg-info/entry_points.txt
+[0.733s] writing requirements to ../../build/conecluster/conecluster.egg-info/requires.txt
+[0.733s] writing top-level names to ../../build/conecluster/conecluster.egg-info/top_level.txt
+[0.736s] reading manifest file '../../build/conecluster/conecluster.egg-info/SOURCES.txt'
+[0.736s] writing manifest file '../../build/conecluster/conecluster.egg-info/SOURCES.txt'
+[0.736s] running build
+[0.736s] running build_py
+[0.736s] copying conecluster/ass2.py -> /home/supan/RT/Perception/checkpoint 2/build/conecluster/build/lib/conecluster
+[0.736s] running install
+[0.737s] running install_lib
+[0.737s] copying /home/supan/RT/Perception/checkpoint 2/build/conecluster/build/lib/conecluster/ass2.py -> /home/supan/RT/Perception/checkpoint 2/install/conecluster/lib/python3.10/site-packages/conecluster
+[0.738s] byte-compiling /home/supan/RT/Perception/checkpoint 2/install/conecluster/lib/python3.10/site-packages/conecluster/ass2.py to ass2.cpython-310.pyc
+[0.738s] running install_data
+[0.738s] running install_egg_info
+[0.740s] removing '/home/supan/RT/Perception/checkpoint 2/install/conecluster/lib/python3.10/site-packages/conecluster-0.0.0-py3.10.egg-info' (and everything under it)
+[0.740s] Copying ../../build/conecluster/conecluster.egg-info to /home/supan/RT/Perception/checkpoint 2/install/conecluster/lib/python3.10/site-packages/conecluster-0.0.0-py3.10.egg-info
+[0.740s] running install_scripts
+[0.755s] Installing cc script to /home/supan/RT/Perception/checkpoint 2/install/conecluster/lib/conecluster
+[0.755s] writing list of installed files to '/home/supan/RT/Perception/checkpoint 2/build/conecluster/install.log'
+[0.779s] Invoked command in '/home/supan/RT/Perception/checkpoint 2/src/conecluster' returned '0': PYTHONPATH=/home/supan/RT/Perception/checkpoint 2/build/conecluster/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/supan/RT/Perception/checkpoint 2/install/conecluster/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/conecluster build --build-base /home/supan/RT/Perception/checkpoint 2/build/conecluster/build install --record /home/supan/RT/Perception/checkpoint 2/build/conecluster/install.log --single-version-externally-managed install_data
